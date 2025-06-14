@@ -1,0 +1,31 @@
+Scene Information for Dragon Frenzy
+
+The game features different scenes that change as the player's score increases:
+
+1. Sky (0-49 points)
+   - Background: Sky blue
+   - Description: Flying through the open sky
+
+2. Forest (50-99 points)
+   - Background: Forest green
+   - Description: Soaring above the ancient forest
+
+3. Ice Kingdom (100-149 points)
+   - Background: Powder blue
+   - Description: Braving the frozen ice kingdom
+
+4. Volcano (150-199 points)
+   - Background: Firebrick red
+   - Description: Navigating the dangerous volcano
+
+5. Castle (200+ points)
+   - Background: Dark slate blue
+   - Description: Approaching the mystical castle
+
+Future Scene Ideas:
+- Cloud City (250+ points)
+- Underwater Kingdom (300+ points)
+- Space (350+ points)
+- Dragon Realm (400+ points)
+
+Scene transitions happen smoothly with background color changes.
